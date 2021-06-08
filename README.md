@@ -5,7 +5,7 @@ Illda Febryawan Budiono - 311910749 - TI.19.A.2
 ### LANGKAH-LANGKAH
 #### 1. Buka XAMPP, aktifkan Apache dan MySQL
 ![1](https://user-images.githubusercontent.com/85242560/120922444-62179f80-c6f3-11eb-8bab-f1e5065a5dac.png)
-#### 2. Buat folder `lab9_php_oop` pada root directory web server `(d:\xampp\htdocs)`
+#### 2. Buat folder `lab10_php_oop` pada root directory web server `(d:\xampp\htdocs)`
 ![2](https://user-images.githubusercontent.com/85242560/120922461-76f43300-c6f3-11eb-9d43-cee39e28d62f.png)
 #### 3. Buat file baru dengan nama `mobil.php` sebagai contoh PHP OOP sederhana
 * coding
